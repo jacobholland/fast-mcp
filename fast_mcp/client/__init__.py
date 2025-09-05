@@ -1,0 +1,1 @@
+"""Client components for FastMCP playground."""
