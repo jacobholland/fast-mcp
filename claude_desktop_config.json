@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "weather-data": {
+      "command": "python",
+      "args": ["fast_mcp/server/server.py"],
+      "cwd": "/Users/jacob.holland/github/fast-mcp"
+    }
+  }
+}
